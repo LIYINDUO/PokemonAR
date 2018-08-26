@@ -2,4 +2,7 @@
 AR Pokemon App created using Unity5 and Vuforia, 3D modal obtained from ROEStudios . Credits to Angela Yu and her team at London App Brewery. 
 
 
-Click Wiki in the navigation bar to see more details.
+![alt text](/Charizard1.jpg "Screenshot of the application running")
+
+
+![alt text](/Charizard2.jpg "Screenshot of the application running")
